@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+/* import { Component, OnInit } from '@angular/core';
 import { MedicosService } from './medicos.service';
 
 @Component({
@@ -42,3 +42,4 @@ export class MedicosComponent implements OnInit {
   }
 
 }
+ */
